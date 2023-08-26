@@ -1,0 +1,20 @@
+.output-wrapper {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    height: 10em;
+    padding: 15px;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.result {
+    flex: 1;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.input {
+    flex: 1;
+    font-size: 18px;
+}
